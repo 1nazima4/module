@@ -767,7 +767,8 @@ footer{
         width: 425px;
     }
     .img-container img{
-        width: 325px;
+        width: 380px;
+
     }
     .container-cat{
         width: 425px;
@@ -1003,6 +1004,9 @@ footer{
         }
         .img-container{
             width: 320px;
+        }
+        .img-container h1{
+           margin-left: 80px;
         }
         .container-cat img{
             width: 320px;
